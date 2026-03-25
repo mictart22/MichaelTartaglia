@@ -1,19 +1,25 @@
-👋 Hi, I’m Mike Tartaglia
+<section>
+  <h1>👋 Hi, I’m Mike Tartaglia</h1>
 
-I’ve spent the past 25 years working in healthcare technology—building, supporting, and improving systems that help the NHS and patients every day.
+  <p>
+    I’ve spent the past 25 years working in healthcare technology—building, supporting, 
+    and improving systems that help the NHS and patients every day.
+  </p>
 
-I’m currently re-engaging and leveling up my cloud skills, focusing on:
+  <p>I’m currently re-engaging and leveling up my cloud skills, focusing on:</p>
 
-☁️ Azure
+  <ul>
+    <li>☁️ Azure</li>
+    <li>📦 Terraform</li>
+    <li>🧩 GitHub &amp; GitHub Actions</li>
+  </ul>
 
-📦 Terraform
+  <p>Outside of tech, you’ll usually find me:</p>
 
-🧩 GitHub & GitHub Actions
+  <ul>
+    <li>🍕 perfecting my homemade pizza</li>
+    <li>🚗 working on my 1972 Fiat 500</li>
+  </ul>
 
-Outside of tech, you’ll usually find me:
-
-🍕 perfecting my homemade pizza
-
-🚗 working on my 1972 Fiat 500
-
-Always learning, always building. Feel free to connect!
+  <p>Always learning, always building. Feel free to connect!</p>
+</section>
